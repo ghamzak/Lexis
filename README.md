@@ -14,4 +14,4 @@ To evaluate on the ProPara dataset, run the evaluator_for_lexis_propara.py file.
 ## Recipes Dataset
 
 1. preprocess using the recipes_data_preprocessing.py file
-2. 
+2. run recipes_evaluate.ipynb
